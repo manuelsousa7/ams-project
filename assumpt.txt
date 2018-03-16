@@ -1,0 +1,5 @@
+Assumptions:
+	-> Assumimos que todos os pedidos do cliente feitos pelo CRM têm uma resposta, que vai ser demonstrada ao utilizador, 
+	havendo assim um fluxo de dados nos 2 sentidos entre o cliente e o CRM e entre o CRM as multiplas interfaces do ERP.
+	-> Assumimos que as VM's são apenas instancias de software que correm todas no mesmo cluster.
+
