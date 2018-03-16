@@ -190,7 +190,7 @@
           <bendpoint startX="355" startY="-19" endX="-528" endY="1101"/>
           <bendpoint startX="355" startY="-427" endX="-528" endY="693"/>
           <bendpoint startX="355" startY="-859" endX="-528" endY="261"/>
-          <bendpoint startX="883" startY="-835" endY="249"/>
+          <bendpoint startX="891" startY="-810" endY="226"/>
         </sourceConnection>
       </child>
       <child xsi:type="archimate:DiagramObject" id="67f86b06-5f21-48c3-b77d-1c6e795887fb" archimateElement="3ca475d6-de66-4d97-aa86-0f67fe0ff34d">
