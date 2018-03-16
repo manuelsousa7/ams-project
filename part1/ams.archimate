@@ -48,6 +48,7 @@
     <element xsi:type="archimate:BusinessActor" name="Coordenador do Departamento de Apoio ao Cliente" id="4c12a159-0e96-434f-96fd-4661bfcd49db"/>
     <element xsi:type="archimate:BusinessActor" name="Funcionário do Departamento de Manutenção" id="a9a99c5a-8de4-445c-b715-4c3101ec75bb"/>
     <element xsi:type="archimate:BusinessActor" name="Funcionário do Departamento Comercial" id="ec85f8fd-2f83-44a9-aece-fa5d3b5cea52"/>
+    <element xsi:type="archimate:BusinessActor" name="BAIK" id="2a416d1d-6ec3-4429-b1d7-55f9cffc702d"/>
   </folder>
   <folder name="Application" id="d877e8f9-fdc7-4243-bbcb-c1f1f54fe6ce" type="application"/>
   <folder name="Technology &amp; Physical" id="51a3e17e-5098-4996-ac51-0702670be967" type="technology"/>
@@ -118,6 +119,9 @@
   </folder>
   <folder name="Views" id="6cadc562-e8de-4c78-8b0d-bf0d74956808" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="38eee10b-f68c-45cc-afff-c0d66f2f059d">
+      <child xsi:type="archimate:DiagramObject" id="f11c650e-ce4d-4e83-be92-eb35ef8dde10" archimateElement="2a416d1d-6ec3-4429-b1d7-55f9cffc702d">
+        <bounds y="12" width="1704" height="841"/>
+      </child>
       <child xsi:type="archimate:DiagramObject" id="83d5bccb-40c3-46dc-a006-c11da29b69af" archimateElement="67bcf0c1-c626-4742-b7a9-da18421844e6">
         <bounds x="53" y="672" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="a12095c1-976e-4941-986c-214a57465281" source="83d5bccb-40c3-46dc-a006-c11da29b69af" target="6046fd9c-0181-497b-93f5-22aa29074999" archimateRelationship="72de4f14-4846-4d51-abdd-034e07dd64ca"/>
